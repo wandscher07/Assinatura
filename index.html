@@ -529,7 +529,7 @@
             <a href="https://livepix.gg/mtwandscher" target="_blank" class="cta-btn btn-livepix">Apoiar via Livepix (Cartão/PIX)</a>
             
             <p class="pix-instruction" style="font-size: 0.85rem; margin-top: 25px;">
-                💡 <strong>Dica Importante:</strong> Após realizar o pagamento por PIX ou Livepix, envie o comprovante para o nosso e-mail: <a href="mailto:matheuswandscher11@gmail.com" class="email-link">matheuswandscher11@gmail.com</a> para adicionarmos você ao grupo e liberarmos as suas recompensas!
+                💡 <strong>Dica Importante:</strong> Após realizar o pagamento por PIX ou Livepix, envie o comprovante para o nosso e-mail: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheuswandscher11@gmail.com" target="_blank">matheuswandscher11@gmail.com</a> para adicionarmos você ao grupo e liberarmos as suas recompensas!
             </p>
         </section>
 
